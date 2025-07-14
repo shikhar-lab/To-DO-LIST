@@ -58,5 +58,5 @@ Check [Issues](https://github.com/shikhar-lab/To-DO-LIST/issues) for contributin
 
 # *Author*
 
-* Shikhar (Shikhar, isshikhar0@gmail.com)
+* Shikhar (Shikhar-lab, isshikhar0@gmail.com)
   - [LinkedIn](www.linkedin.com/in/shikhar-shukla-399b9b316)
